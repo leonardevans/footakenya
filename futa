@@ -1,0 +1,9 @@
+roles
+user
+superadmin
+admin
+editor
+
+teamuser - userid, teamid
+tournamentuser - userid, tournamentid,
+leagueuser - leagueid, userid
