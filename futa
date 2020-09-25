@@ -1,9 +1,32 @@
 roles
-user
-superadmin
-admin
-editor
+  user
+  superadmin
+  supereditor
+  admin
+  editor
+  player
+  coach
+  manager
+  owner
 
 teamuser - userid, teamid
 tournamentuser - userid, tournamentid,
 leagueuser - leagueid, userid
+
+contributions.
+  tournament contributions
+    team
+  league contributions
+    team
+  team contributions
+    player
+  
+contribution
+  id
+  name
+  description
+  totaltarget
+  singlecontributer
+  
+add team captain
+
